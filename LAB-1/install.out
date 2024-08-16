@@ -1,0 +1,22 @@
+Collecting pytest
+  Downloading pytest-7.4.4-py3-none-any.whl (325 kB)
+Collecting pluggy<2.0,>=0.12
+  Using cached pluggy-1.2.0-py3-none-any.whl (17 kB)
+Collecting colorama; sys_platform == "win32"
+  Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Collecting iniconfig
+  Using cached iniconfig-2.0.0-py3-none-any.whl (5.9 kB)
+Collecting packaging
+  Downloading packaging-24.0-py3-none-any.whl (53 kB)
+Collecting exceptiongroup>=1.0.0rc8; python_version < "3.11"
+  Downloading exceptiongroup-1.2.2-py3-none-any.whl (16 kB)
+Collecting importlib-metadata>=0.12; python_version < "3.8"
+  Using cached importlib_metadata-6.7.0-py3-none-any.whl (22 kB)
+Collecting tomli>=1.0.0; python_version < "3.11"
+  Using cached tomli-2.0.1-py3-none-any.whl (12 kB)
+Collecting typing-extensions>=3.6.4; python_version < "3.8"
+  Using cached typing_extensions-4.7.1-py3-none-any.whl (33 kB)
+Collecting zipp>=0.5
+  Using cached zipp-3.15.0-py3-none-any.whl (6.8 kB)
+Installing collected packages: typing-extensions, zipp, importlib-metadata, pluggy, colorama, iniconfig, packaging, exceptiongroup, tomli, pytest
+Successfully installed colorama-0.4.6 exceptiongroup-1.2.2 importlib-metadata-6.7.0 iniconfig-2.0.0 packaging-24.0 pluggy-1.2.0 pytest-7.4.4 tomli-2.0.1 typing-extensions-4.7.1 zipp-3.15.0
