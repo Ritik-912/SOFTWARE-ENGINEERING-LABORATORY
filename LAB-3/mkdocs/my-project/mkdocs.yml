@@ -1,0 +1,6 @@
+site_name: "My Project Documentation"
+
+plugins:
+  - search
+  - mkdocstrings:
+      default_handler: python
